@@ -1,5 +1,7 @@
 body{
     font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    margin: 0;
 }
 
 .name{
@@ -11,6 +13,27 @@ body{
     height: 30px;
     width: 100px;
     text-align: center;
-    padding-top: 10px;
+    padding: 10px 40px;
     border-radius: 5px;
+    text-decoration: none;
+    font-weight: 700;
+}
+.pip{
+    padding-right: 50px;
+    padding-left: 100px;
+}
+.pip p{
+    text-align: justify;
+}
+.pip img{
+    height: 600px;
+    width: 600px;
+    
+}
+.pop{
+    display: flex;
+    padding: 50px;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+   
 }
