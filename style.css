@@ -37,3 +37,33 @@ body{
     background-repeat: no-repeat;
    
 }
+.experience{
+    display: flex;
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    
+   
+}
+.ting{
+    color: orange;
+    width: 50%;
+}
+.hehe{
+    padding: 50px;
+    text-align: justify;
+    width: 60%;
+    box-shadow: 10px 10px 10px 10px rgb(78, 77, 77);
+    margin: 50px;
+   border-radius: 5px;
+}
+#huhu{
+    border-left: 10px solid rgba(0, 0, 255, 0.458);
+}
+#haha{
+    border-left: 10px solid rgba(250, 128, 114, 0.736);
+}
+footer{
+    text-align: center;
+    color: rgba(0, 0, 0, 0.519);
+    font-size: 15px;
+}
