@@ -1,3 +1,16 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
 .name{
     color: yellowgreen;
+}
+.button{
+    color: rgb(0, 9, 25);
+    background-image: linear-gradient(rgb(182, 205, 135),yellowgreen);
+    height: 30px;
+    width: 100px;
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 5px;
 }
